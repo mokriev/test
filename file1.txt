@@ -1,8 +1,1 @@
-GIT TESTING
-
-1232334561
-asdfsdfas
-23423423
->>>>>>> refs/remotes/origin/master
-
-git merge test
+GIT
